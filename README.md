@@ -4,6 +4,8 @@
 This project analyzes customer churn data from a bank, focusing on variables like age, balance, engagement, and other characteristics to understand the factors that influence whether customers stay or leave. We use statistical techniques, machine learning models, and visualizations to uncover insights and predict customer churn.
 
 ## 📁 Dataset
+[Churn for Bank Customers dataset](https://www.openml.org/search?type=data&status=active&id=43390&sort=runs)
+
 The dataset contains the following customer information:
 - **CustomerId**: Unique ID for each customer.
 - **Surname**: Customer’s last name.
